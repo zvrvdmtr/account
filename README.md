@@ -1,0 +1,1 @@
+Test task for Avito trinee/junior developer https://github.com/avito-tech/job-backend-trainee-assignment
